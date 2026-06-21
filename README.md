@@ -6,9 +6,15 @@
 ### Face Recognition & Saudi License-Plate Recognition (LPR)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/salehalshebil/smart-security-gate/blob/main/FACE_LPR_Gate_Final.ipynb)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Hugging%20Face%20Space-yellow?logo=huggingface)](https://salehalshebil-smart-security-gate.hf.space)
+
 *Graduation Project — AI Program*
 
 </div>
+
+---
+
+> 🚀 **Live demo (no setup):** **<https://salehalshebil-smart-security-gate.hf.space>** — opens the running web interface directly in your browser.
 
 ---
 
